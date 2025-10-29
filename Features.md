@@ -16,3 +16,6 @@ Folders: `server/` and `client/` with code and instructions.
 - Backend: deploy `server/` to Render, Heroku, or any Node hosting. Add env var `MONGODB_URI`.
 - Frontend: deploy `client/` to Vercel. Add env var `VITE_API_URL` pointing to your backend (e.g. https://your-api.onrender.com/api).
 
+- Deployment link
+https://mern-stack-integration-kamsodd02-hr.vercel.app/
+
